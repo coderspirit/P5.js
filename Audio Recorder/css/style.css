@@ -1,0 +1,9 @@
+.head{border-radius: 50px}
+body{background:pink}
+.btn{
+    width:70px;
+    height:40px;
+    border-radius:50px;
+    background: green;
+}
+.header{width: 100%;height:300;background: grey;}
